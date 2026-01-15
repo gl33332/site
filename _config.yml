@@ -1,11 +1,13 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
-language: en
-timezone: UTC
+title: 同行陌路两不疑
+subtitle: 同行陌路-- 两不疑
+description: 只有迎风，风筝才能飞得更高。
+keywords:
+author: 同行陌路-- 两不疑
+language: zh-CN
+timezone: ''
 
-url: https://hexo.io
+# URL
+url: https://blog.138gl.com/
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
