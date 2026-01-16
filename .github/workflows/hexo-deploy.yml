@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: Install Dependencies
         run: npm install
@@ -34,3 +33,4 @@ jobs:
           repository-name: gl33332/gl33332.github.io
           branch: main
           token: ${{ secrets.GH_TOKEN }}
+
